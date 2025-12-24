@@ -1,0 +1,22 @@
+{
+  "name": "@sanjeetkr/dropdown",
+  "version": "1.0.0",
+  "description": "A lightweight, reusable vanilla JS dropdown menu.",
+  "main": "dropDown.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanjeet2610/DropDown-Menu.git"
+  },
+  "keywords": [
+    "dropdown"
+  ],
+  "author": "Sanjeet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanjeet2610/DropDown-Menu/issues"
+  },
+  "homepage": "https://github.com/sanjeet2610/DropDown-Menu#readme"
+}
